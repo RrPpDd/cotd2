@@ -17,7 +17,8 @@ $_SESSION['item'][0]['rank'] = 1;
 $_SESSION['item'][0]['caption'] = 'Adelaide Cat';
 $_SESSION['item'][0]['trivia'] = "<p>My name is Le Cornu and I live in Adelaide. My dad plays for the Adelaide Crows. He has a big mullet which I snuggle into when he is asleep.</p> <p style='color:silver;font-size:80%;font-style:italic'>Like me and we can watch the footie together. </p>";
 $_SESSION['item'][0]['theme'] = 'cats';
-$_SESSION['item'][0]['filename'] = 'data/images/cats/adelaide.jpg';
+//$_SESSION['item'][0]['filename'] = 'data/images/cats/adelaide.jpg';
+$_SESSION['item'][0]['filename'] = 'data/images/cats/dog.jpg';
 $_SESSION['item'][0]['rating'] = 0;
 
 $_SESSION['item'][1]['name'] = 'canberra';
